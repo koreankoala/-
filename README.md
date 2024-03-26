@@ -4,5 +4,7 @@
 + csv (테이블명_초록팀 - 추가문제)
 + sql
 + 테이블
-<br>status <br>quiz <br>player
+  + status
+  + quiz
+  + player
 + jdbc (oracle ojdbc6.jar) 
