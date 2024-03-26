@@ -1,6 +1,6 @@
 # JobSeeker(취준생키우기프로젝트)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JoobSeeker%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JoobSeeker%20&fontSize=90)
 
 + csv (테이블명_초록팀 - 추가문제)
 + sql
